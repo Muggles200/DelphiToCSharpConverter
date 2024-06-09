@@ -1,0 +1,7 @@
+/workspaces/DelphiToCSharpConverter/Tests/bin/Debug/net5.0/CoverletSourceRootsMapping
+/workspaces/DelphiToCSharpConverter/Tests/obj/Debug/net5.0/Tests.csproj.AssemblyReference.cache
+/workspaces/DelphiToCSharpConverter/Tests/obj/Debug/net5.0/Tests.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DelphiToCSharpConverter/Tests/obj/Debug/net5.0/Tests.AssemblyInfoInputs.cache
+/workspaces/DelphiToCSharpConverter/Tests/obj/Debug/net5.0/Tests.AssemblyInfo.cs
+/workspaces/DelphiToCSharpConverter/Tests/obj/Debug/net5.0/Tests.csproj.CoreCompileInputs.cache
+/workspaces/DelphiToCSharpConverter/Tests/obj/Debug/net5.0/Tests.sourcelink.json

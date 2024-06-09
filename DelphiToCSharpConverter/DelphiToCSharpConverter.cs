@@ -3,7 +3,7 @@ using System.IO;
 
 namespace DelphiToCSharpConverter
 {
-    public class DelphiToCSharpConverter
+    public class Converter
     {
         private readonly BasicConstructsConverter basicConverter = new BasicConstructsConverter();
         private readonly FunctionProcedureConverter functionConverter = new FunctionProcedureConverter();

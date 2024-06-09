@@ -16,7 +16,7 @@ namespace DelphiToCSharpConverter
             string inputDir = args[0];
             string outputDir = args[1];
 
-            var converter = new DelphiToCSharpConverter();
+            var converter = new Converter();
             converter.ConvertDirectory(inputDir, outputDir);
         }
     }

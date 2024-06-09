@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelphiToCSharpConverter", "DelphiToCSharpConverter\DelphiToCSharpConverter.csproj", "{A86E2251-65DE-4B76-9293-F5CA8F10D1AA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{15F40B8B-209C-481B-874A-D1D19911EC05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A86E2251-65DE-4B76-9293-F5CA8F10D1AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A86E2251-65DE-4B76-9293-F5CA8F10D1AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A86E2251-65DE-4B76-9293-F5CA8F10D1AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A86E2251-65DE-4B76-9293-F5CA8F10D1AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15F40B8B-209C-481B-874A-D1D19911EC05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F40B8B-209C-481B-874A-D1D19911EC05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F40B8B-209C-481B-874A-D1D19911EC05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F40B8B-209C-481B-874A-D1D19911EC05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB36419B-44AC-4CA7-91BB-BC4B37471007}
+	EndGlobalSection
+EndGlobal
